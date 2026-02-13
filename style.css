@@ -62,6 +62,11 @@ body {
     color:antiquewhite;
     font-size: 5vmin;
 }
+#msg2 {
+    
+    color:rgb(243, 142, 10);
+    font-size: 5vmin;
+}
 
 .msg-container {
   height: 100vmin;
